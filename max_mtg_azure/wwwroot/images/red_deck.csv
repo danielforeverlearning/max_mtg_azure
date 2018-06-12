@@ -1,0 +1,10 @@
+﻿id,pic_filename,card_count,card_type,mana_cost,effects
+1,land_mountain.jpg,28,LAND,0,0
+2,instant_lightning_bolt.jpg,4,INSTANT,1RED,1
+3,enchantment_goblin_assault.jpg,4,ENCHANTMENT,2COLORLESS_1RED,2
+4,creature_raging_goblin.jpg,4,CREATURE,1RED,3
+5,creature_goblin_gardener.jpg,4,CREATURE,3COLORLESS_1RED,4
+6,creature_goblin_chieftain.jpg,4,CREATURE,1COLORLESS_2RED,5
+7,creature_goblin_bushwhacker.jpg,4,CREATURE,1RED,6
+1002,creature_goblin_arsonist.jpg,4,CREATURE,1RED,7
+1003,creature_frenzied_goblin.jpg,4,CREATURE,1RED,8

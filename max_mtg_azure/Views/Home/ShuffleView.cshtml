@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "ShuffleView";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+<span>
+    @foreach (string pic in (List<string>)ViewData["piclist"])
+    {
+        <img src="@pic" alt="i can not find this card" />
+    }
+</span>
+
