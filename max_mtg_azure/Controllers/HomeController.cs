@@ -114,7 +114,7 @@ namespace max_mtg_azure.Controllers
             //ViewData["players"] = players;
 
 
-
+            //********* this stuff back to LobbyView.cshtml, i took it out because i could not get azure to update :(   *********************
             //<meta http-equiv="refresh" content="@ViewData["RefreshSeconds"]">
 
             //< h2 > @ViewData["TimeMessage"] </ h2 >
