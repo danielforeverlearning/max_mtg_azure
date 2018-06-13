@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace max_mtg_azure
 {
+
     public class DistinctCard
     {
         public int id;
