@@ -54,7 +54,7 @@ namespace max_mtg_azure.Controllers
 
             //piclist.Add(Url.Content("~/images/red_deck/land_mountain.jpg"));
             ViewData["piclist"] = piclist;
-            ViewData["Message"] = "ReadDeckCSV-->Shuffle-->Draw-->SeeHand";
+            ViewData["Message"] = "klugecsvpath-->ReadDeckCSV-->Shuffle-->Draw-->SeeHand";
 
             return View();
 
